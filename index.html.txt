@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Portofolio Saya</title>
+    <style>
+        /* Gaya CSS Sederhana */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #24292e;
+            color: white;
+            padding: 40px 20px;
+        }
+        h1 { margin: 0; font-size: 2.5rem; }
+        p { font-size: 1.2rem; color: #666; }
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Halo, Selamat Datang!</h1>
+        <p>Ini adalah website pertama saya yang di-hosting di GitHub</p>
+    </header>
+
+    <div class="container">
+        <h2>Tentang Saya</h2>
+        <p>Saya sedang belajar cara membuat website dari awal dan menampilkannya secara online.</p>
+        <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+        <h2>Proyek Saya</h2>
+        <p>Ke depannya, bagian ini akan diisi dengan daftar karya atau proyek yang saya buat.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Hak Cipta Dilindungi.</p>
+    </footer>
+
+</body>
+</html>
